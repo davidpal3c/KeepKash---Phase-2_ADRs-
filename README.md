@@ -27,6 +27,4 @@ See ![Database Storage](docs/database-storage.md)
 
 ## Project Team:
 
-Mathieu Frenette
-David Palacios 
-Jerry Xia
+Mathieu Frenette, David Palacios, Jerry Xia.

@@ -14,10 +14,10 @@ To streamline development and maintain simplicity, KeepKash will not rely on any
 
  
 
-    ### Touchscreen input: 
+    --> Touchscreen input: 
     The app will use the device’s touchscreen for manual entry of data, allowing users to input information such as expenses, income, and set budget goals. 
 
-    #### Rationale: 
+	Rationale: 
 	Touchscreen input provides a straightforward method for data entry, suitable for a minimalistic app without hardware dependencies.  
 
  
@@ -28,11 +28,11 @@ To streamline development and maintain simplicity, KeepKash will not rely on any
 
  
 
-### Simplicity and Accessibility: 
+--> Simplicity and Accessibility: 
 By focusing solely on touchscreen input, the app 	remains accessible on any mobile device, regardless of additional hardware 			features. 
 
-### Minimal Development Overhead:
+--> Minimal Development Overhead:
 Avoiding extra hardware integration will reduce complexity and development time, aligning with the project’s goals for streamlined functionality, simplicity, and development time constraints. 
 
-### Future Expandability: 
+--> Future Expandability: 
 Should we decide to introduce additional features, such as biometric authentication, in the future, we can revisit hardware requirements accordingly. 
