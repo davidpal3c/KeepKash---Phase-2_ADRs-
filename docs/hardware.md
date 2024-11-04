@@ -1,6 +1,7 @@
 # ADR - Hardware  
 
-## Status: Accepted 
+## Status: 
+Accepted 
 
  
 
@@ -8,15 +9,16 @@
 In the development of KeepKash, we needed to decide the selection of specific hardware requirements with the goal of keeping the app straightforward and accessible across devices. Since users will manually enter expenses and other budgeting information, our focus is on minimal hardware dependencies to streamline development and improve accessibility.  
  
 
-## Decision: to streamline development and maintain simplicity, KeepKash will not rely on any specific hardware features beyond the essentials provided by the device (e.g. touchscreen for data input). No additional hardware, such as camera or biometric authentication, will be integrated at this stage.  
+## Decision: 
+To streamline development and maintain simplicity, KeepKash will not rely on any specific hardware features beyond the essentials provided by the device (e.g. touchscreen for data input). No additional hardware, such as camera or biometric authentication, will be integrated at this stage.  
 
  
 
     ### Touchscreen input: 
-
     The app will use the device’s touchscreen for manual entry of data, allowing users to input information such as expenses, income, and set budget goals. 
 
-    Rationale: Touchscreen input provides a straightforward method for data entry, suitable for a minimalistic app without hardware dependencies.  
+    #### Rationale: 
+	Touchscreen input provides a straightforward method for data entry, suitable for a minimalistic app without hardware dependencies.  
 
  
 
