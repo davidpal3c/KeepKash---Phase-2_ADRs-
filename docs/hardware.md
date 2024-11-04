@@ -1,4 +1,4 @@
-# ADR - Hardware  
+# Hardware ADR
 
 ## Status: 
 Accepted 
@@ -33,8 +33,6 @@ By focusing solely on touchscreen input, the app 	remains accessible on any mobi
 
 ### Minimal Development Overhead:
 Avoiding extra hardware integration will reduce complexity and development time, aligning with the project’s goals for streamlined functionality, simplicity, and development time constraints. 
-
- 
 
 ### Future Expandability: 
 Should we decide to introduce additional features, such as biometric authentication, in the future, we can revisit hardware requirements accordingly. 

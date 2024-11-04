@@ -18,15 +18,15 @@ See ![Development Framework](docs/development-framework.md)
 See ![Navigation Strategy](docs/navigation-strategy.md)
 
 ## Hardware ADR
-See ![Navigation Strategy](docs/hardware.md)
+See ![Hardware](docs/hardware.md)
 
 ## Database Storage ADR
-See ![Navigation Strategy](docs/database-storage.md)
+See ![Database Storage](docs/database-storage.md)
 
 
 
-Project Team:
+## Project Team:
 
-Jerry Xia
 Mathieu Frenette
 David Palacios 
+Jerry Xia
