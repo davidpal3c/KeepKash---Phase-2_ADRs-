@@ -11,6 +11,7 @@ While developing our mobile expense manager app we have decided the following re
 
  
 <br>
+
 ## Solution: 
 We will go with a tab-based navigation system for my mobile password manager application. This approach provides several advantages: 
 
